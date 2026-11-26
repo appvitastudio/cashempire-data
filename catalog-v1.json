@@ -1,0 +1,1152 @@
+{
+ "schemaVersion": 1,
+ "catalogVersion": 1,
+ "generatedAt": "2026-11-26",
+ "game": "Grand Theft Auto VI",
+ "sources": [
+  {
+   "id": "rockstar-gtaplus",
+   "publisher": "Rockstar Games",
+   "url": "https://www.rockstargames.com/VI/gta-plus",
+   "tier": "official",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "rockstar-support-buckme",
+   "publisher": "Rockstar Games Support",
+   "url": "https://support.rockstargames.com/articles/5hSbxodEFeNbU1wARy1p4X/cannot-put-any-more-money-in-my-buckme-account-in-grand-theft-auto-vi",
+   "tier": "official",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-garages",
+   "publisher": "GameSpot",
+   "url": "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-thrax",
+   "publisher": "GameSpot",
+   "url": "https://www.gamespot.com/articles/how-to-find-the-truffade-thrax-in-gta-6/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-emerus",
+   "publisher": "GameSpot",
+   "url": "https://www.gamespot.com/articles/you-can-get-the-best-car-in-gta-6-for-free-heres-how/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-moses",
+   "publisher": "GameSpot",
+   "url": "https://www.gamespot.com/articles/gta-6-best-car-moses-registration/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamespot-gas",
+   "publisher": "GameSpot",
+   "url": "https://www.gamespot.com/articles/how-much-does-gas-cost-in-gta-6-vs-real-life/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamesradar-fastest",
+   "publisher": "GamesRadar+",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fastest-cars/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamesradar-broke",
+   "publisher": "GamesRadar+",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-lock-you-out-of-story-missions-if-youre-too-broke-so-its-good-to-know-the-robbery-mechanics-have-been-massively-expanded/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamesradar-online",
+   "publisher": "GamesRadar+",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-online-looks-unlikely-for-launch-as-rockstar-refers-to-the-game-as-a-single-player-experience/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "pcgamer-online",
+   "publisher": "PC Gamer",
+   "url": "https://pcgamer.com/games/action/gta-6-is-a-singleplayer-experience-leaving-me-to-question-whats-going-on-with-gta-online/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "vgc-houses",
+   "publisher": "Video Games Chronicle",
+   "url": "https://www.videogameschronicle.com/guide/can-you-buy-houses-in-gta-6-property-garages-and-safehouses-explained/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "vgc-buckme",
+   "publisher": "Video Games Chronicle",
+   "url": "https://www.videogameschronicle.com/guide/gta-6-buck-me-mission-walkthrough/",
+   "tier": "major_press",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "powerpyx-garages",
+   "publisher": "PowerPyx",
+   "url": "https://www.powerpyx.com/gta-6-all-garage-locations/",
+   "tier": "established_guide",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "powerpyx-snipers",
+   "publisher": "PowerPyx",
+   "url": "https://www.powerpyx.com/gta-6-how-to-get-sniper-rifle/",
+   "tier": "established_guide",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "powerpyx-launchers",
+   "publisher": "PowerPyx",
+   "url": "https://www.powerpyx.com/gta-6-how-to-get-grenade-launcher-rocket-launcher/",
+   "tier": "established_guide",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "metaforge-weapons",
+   "publisher": "MetaForge",
+   "url": "https://metaforge.app/gta-6/best-weapons-gta-6",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gtabase-expensive",
+   "publisher": "GTABase",
+   "url": "https://www.gtabase.com/articles/gta-6/most-expensive-vehicles-to-steal-and-sell-in-gta-6",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gtabase-carsteal",
+   "publisher": "GTABase",
+   "url": "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gtabase-money",
+   "publisher": "GTABase",
+   "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "sportskeeda-cars",
+   "publisher": "Sportskeeda",
+   "url": "https://www.sportskeeda.com/esports/expensive-cars-gta-6-prices",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "overgear-cars",
+   "publisher": "Overgear",
+   "url": "https://overgear.com/guides/gta-6/most-expensive-vehicles/",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gta6life-property",
+   "publisher": "gta6-life.com",
+   "url": "https://gta6-life.com/en/guides/gta-6-buy-property/",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gta6house-garages",
+   "publisher": "gta6.house",
+   "url": "https://gta6.house/guides/gta-6-buy-houses-property-garages",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "gamesgg-money",
+   "publisher": "games.gg",
+   "url": "https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-money-system-explained/",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "stack-archive-money",
+   "publisher": "stack-archive.com",
+   "url": "https://stack-archive.com/blog/gta-6-money-guide-buckme-family-savings-2026/",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "theclick-familysavings",
+   "publisher": "theclick.gg",
+   "url": "https://www.theclick.gg/?p=118439",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  },
+  {
+   "id": "beebom-online2027",
+   "publisher": "Beebom",
+   "url": "https://beebom.com/rockstar-has-gta-6-online-mode-planned-for-2027/amp/",
+   "tier": "community",
+   "accessed": "2026-11-26"
+  }
+ ],
+ "items": [
+  {
+   "id": "garage-mitchell-auto-center",
+   "name": "Mitchell Auto Center (Kelly County)",
+   "category": "PROPERTIES",
+   "price": 4000,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages"
+   ],
+   "conflictNote": "gta6.house claims this is the 20%-discounted price (BuckMe Gold) and the base price is $5,000.",
+   "description": "Cheapest buyable garage, one vehicle slot, sold through the Vice City Real Estate app.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-persistence-road",
+   "name": "Persistence Road Garage (Bellville, Leonard County)",
+   "category": "PROPERTIES",
+   "price": null,
+   "priceKind": "purchase",
+   "status": "CONFLICTED",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "conflictNote": "GameSpot: $9,500. VGC and PowerPyx: $7,600. gta6.house: $9,500 base, $7,600 with BuckMe Gold discount. The $160,000 total from VGC/PowerPyx only works with $7,600.",
+   "description": "One-slot garage north of Vice City; reported price differs between outlets.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-7th-avenue",
+   "name": "7th Avenue Garage (near VCI Airport)",
+   "category": "PROPERTIES",
+   "price": 12000,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages"
+   ],
+   "conflictNote": "gta6.house lists $15,000 base with $12,000 as the Gold-discounted price.",
+   "description": "One-slot garage near the international airport.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-store-n-bolt",
+   "name": "Store 'N' Bolt (Northern Ambrosia)",
+   "category": "PROPERTIES",
+   "price": 16800,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages"
+   ],
+   "conflictNote": "gta6.house lists $21,000 base / $16,800 discounted; it also says it unlocks only in Chapter 3.",
+   "description": "One-slot storage garage in Ambrosia, available from later in the story.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-wyatt-motors",
+   "name": "Wyatt Motors (Central Ambrosia)",
+   "category": "PROPERTIES",
+   "price": 21600,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages"
+   ],
+   "conflictNote": "gta6.house lists $27,000 base / $21,600 discounted.",
+   "description": "One-slot garage in central Ambrosia.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-vela-rota-drive",
+   "name": "Vela Rota Drive Garage (Capri)",
+   "category": "PROPERTIES",
+   "price": null,
+   "priceKind": "purchase",
+   "status": "CONFLICTED",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "conflictNote": "GameSpot: $30,000. VGC and PowerPyx: $24,000. gta6.house: $30,000 base, $24,000 with BuckMe Gold.",
+   "description": "One-slot garage in Capri; outlets disagree on the price.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-bonita-court",
+   "name": "Bonita Court Garage (Washington Island, Vice Beach)",
+   "category": "PROPERTIES",
+   "price": 34000,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages"
+   ],
+   "conflictNote": "gta6.house lists $42,500 base / $34,000 discounted.",
+   "description": "One-slot garage on Vice Beach's Washington Island.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-atlantic-court",
+   "name": "Atlantic Court Garage (Ocean Beach)",
+   "category": "PROPERTIES",
+   "price": 40000,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "vgc-houses",
+    "powerpyx-garages"
+   ],
+   "conflictNote": "gta6.house lists $50,000 base / $40,000 discounted.",
+   "description": "Priciest buyable garage, Ocean Beach; still holds only one car.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-port-gellhorn-station",
+   "name": "Port Gellhorn Station Garage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "conflictNote": null,
+   "description": "Free garage granted by the Chapter 2 Moses storyline.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-paradise-watson-bay",
+   "name": "Paradise Garage (Watson Bay)",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-garages",
+    "gta6house-garages",
+    "gta6life-property"
+   ],
+   "conflictNote": "gta6-life/gta6.house tie it to the Ultimate Edition; GameSpot only lists it as free.",
+   "description": "No in-game cost; reported as an Ultimate Edition bonus garage.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-thompson-court",
+   "name": "Thompson Court Garage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "conflictNote": null,
+   "description": "Free two-slot story garage from Chapter 4.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-ne-15th-street",
+   "name": "NE 15th Street Garage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "conflictNote": null,
+   "description": "Free two-slot story garage from Chapter 5.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-pegassi-residences",
+   "name": "Pegassi Residences Garage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "conflictNote": null,
+   "description": "Free three-slot garage unlocked late in the story.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-southside-storage",
+   "name": "Southside Storage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-garages"
+   ],
+   "conflictNote": null,
+   "description": "Free one-slot reward for finding all five 1010 murals.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-domestic-timbers",
+   "name": "Domestic Timbers",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-garages"
+   ],
+   "conflictNote": null,
+   "description": "Free one-slot reward for completing Randy's side questline.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-shore-court",
+   "name": "Shore Court Garage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gta6house-garages",
+    "gta6life-property"
+   ],
+   "conflictNote": null,
+   "description": "Pre-order bonus garage; not sold for in-game money.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "garage-gtaplus-crosstown",
+   "name": "GTA+ Crosstown District Garage",
+   "category": "PROPERTIES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstar-gtaplus"
+   ],
+   "conflictNote": null,
+   "description": "Included with the GTA+ subscription from Chapter 3; no in-game dollar cost.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-truffade-thrax-registration",
+   "name": "Truffade Thrax",
+   "category": "VEHICLES",
+   "price": 70000,
+   "priceKind": "registration",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-thrax"
+   ],
+   "conflictNote": "GameSpot gives roughly $70K for Andrew Node's Thrax; exact figure may be rounded.",
+   "description": "Top-end hypercar; registering it as a personal vehicle costs about $70K.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-progen-emerus-registration",
+   "name": "Progen Emerus",
+   "category": "VEHICLES",
+   "price": 29900,
+   "priceKind": "registration",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-emerus",
+    "gamesradar-fastest"
+   ],
+   "conflictNote": "GameSpot also cites about $29K for a purple variant; $29,900 is the figure two outlets agree on.",
+   "description": "Free-to-find supercar; registration fee about $29.9K.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-pegassi-infernus-96-sell",
+   "name": "Pegassi Infernus '96",
+   "category": "VEHICLES",
+   "price": 17160,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars",
+    "overgear-cars"
+   ],
+   "conflictNote": "Three minor sites agree but may share one origin.",
+   "description": "Highest reported fence payout for a stolen car.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-pegassi-infernus-96-registration",
+   "name": "Pegassi Infernus '96",
+   "category": "VEHICLES",
+   "price": 34750,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars",
+    "overgear-cars"
+   ],
+   "conflictNote": "Three minor sites agree but may share one origin.",
+   "description": "Cost to register the '96 Infernus as your own.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-pfister-comet-88-sell",
+   "name": "Pfister Comet '88",
+   "category": "VEHICLES",
+   "price": 17050,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars",
+    "overgear-cars"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the '88 Comet.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-pfister-comet-88-registration",
+   "name": "Pfister Comet '88",
+   "category": "VEHICLES",
+   "price": 34250,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars",
+    "overgear-cars"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '88 Comet.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-grotti-cheetah-95-sell",
+   "name": "Grotti Cheetah '95",
+   "category": "VEHICLES",
+   "price": 16775,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars",
+    "overgear-cars"
+   ],
+   "conflictNote": "Do not confuse with the real-world ~GBP 1M Selfridges promo car.",
+   "description": "Fence payout for the '95 Cheetah.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-grotti-cheetah-95-registration",
+   "name": "Grotti Cheetah '95",
+   "category": "VEHICLES",
+   "price": 32750,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars",
+    "overgear-cars"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '95 Cheetah.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-invetero-coquette-64-sell",
+   "name": "Invetero Coquette '64",
+   "category": "VEHICLES",
+   "price": 12320,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the classic '64 Coquette.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-invetero-coquette-64-registration",
+   "name": "Invetero Coquette '64",
+   "category": "VEHICLES",
+   "price": 29150,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the classic '64 Coquette.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-mammoth-patriot-92-sell",
+   "name": "Mammoth Patriot '92",
+   "category": "VEHICLES",
+   "price": 10835,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars"
+   ],
+   "conflictNote": "No registration cost listed by either source.",
+   "description": "Fence payout for the '92 Patriot SUV.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-bravado-gauntlet-custom-69-sell",
+   "name": "Bravado Gauntlet Custom '69",
+   "category": "VEHICLES",
+   "price": 7095,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the '69 Gauntlet Custom.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-bravado-gauntlet-custom-69-registration",
+   "name": "Bravado Gauntlet Custom '69",
+   "category": "VEHICLES",
+   "price": 23750,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '69 Gauntlet Custom.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-vapid-hustler-32-sell",
+   "name": "Vapid Hustler '32",
+   "category": "VEHICLES",
+   "price": 6545,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the '32 Hustler hot rod.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-vapid-hustler-32-registration",
+   "name": "Vapid Hustler '32",
+   "category": "VEHICLES",
+   "price": 21900,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '32 Hustler hot rod.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-albany-devanity-59-sell",
+   "name": "Albany DeVanity '59",
+   "category": "VEHICLES",
+   "price": 6490,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the '59 DeVanity.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-albany-devanity-59-registration",
+   "name": "Albany DeVanity '59",
+   "category": "VEHICLES",
+   "price": 21750,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '59 DeVanity.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-albany-hermes-50-sell",
+   "name": "Albany Hermes '50",
+   "category": "VEHICLES",
+   "price": 6435,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the '50 Hermes.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-albany-hermes-50-registration",
+   "name": "Albany Hermes '50",
+   "category": "VEHICLES",
+   "price": 21650,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '50 Hermes.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-sirius-transgressor-67-sell",
+   "name": "Sirius Transgressor '67",
+   "category": "VEHICLES",
+   "price": 6060,
+   "priceKind": "sell_value",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars"
+   ],
+   "conflictNote": null,
+   "description": "Fence payout for the '67 Transgressor (no tracker).",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-sirius-transgressor-67-registration",
+   "name": "Sirius Transgressor '67",
+   "category": "VEHICLES",
+   "price": 21500,
+   "priceKind": "registration",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "gtabase-expensive",
+    "sportskeeda-cars"
+   ],
+   "conflictNote": null,
+   "description": "Registration fee for the '67 Transgressor.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "vehicle-annis-elegy-90-gtaplus",
+   "name": "'90 Annis Venturas BLVD Elegy (GTA+)",
+   "category": "VEHICLES",
+   "price": 0,
+   "priceKind": "purchase",
+   "status": "VERIFIED_OFFICIAL",
+   "sourceIds": [
+    "rockstar-gtaplus"
+   ],
+   "conflictNote": null,
+   "description": "Widebody sports car included free with GTA+ membership.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-laird-350",
+   "name": "Fortune & Son Laird 350 (sniper rifle)",
+   "category": "EQUIPMENT",
+   "price": 950,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-snipers",
+    "metaforge-weapons"
+   ],
+   "conflictNote": null,
+   "description": "Cheapest sniper rifle, sold at Expanded Ammu-Nation stores.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-shrewsbury-sm-69",
+   "name": "Shrewsbury SM-69 (sniper rifle)",
+   "category": "EQUIPMENT",
+   "price": 1850,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-snipers"
+   ],
+   "conflictNote": null,
+   "description": "Sniper rifle at Expanded Ammu-Nation stores.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-shrewsbury-sms-01",
+   "name": "Shrewsbury SMS-01 (sniper rifle)",
+   "category": "EQUIPMENT",
+   "price": 2150,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-snipers"
+   ],
+   "conflictNote": null,
+   "description": "Sniper rifle unlocked after Bret's ninth hunting quest.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-fairview-ff-sr",
+   "name": "Fairview FF-SR (sniper rifle)",
+   "category": "EQUIPMENT",
+   "price": 2950,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-snipers"
+   ],
+   "conflictNote": null,
+   "description": "Mid-priced sniper rifle at Expanded Ammu-Nation stores.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-fairview-ff-50",
+   "name": "Fairview FF-50 (sniper rifle)",
+   "category": "EQUIPMENT",
+   "price": 3975,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-snipers",
+    "metaforge-weapons"
+   ],
+   "conflictNote": null,
+   "description": "Most expensive sniper rifle reported.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-hillinger-boomer",
+   "name": "Hillinger Boomer (grenade launcher)",
+   "category": "EQUIPMENT",
+   "price": 12000,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-launchers"
+   ],
+   "conflictNote": null,
+   "description": "Cheaper grenade launcher, Expanded Ammu-Nation only.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-deever-tech-glr40",
+   "name": "Deever Tech GLR40 (grenade launcher)",
+   "category": "EQUIPMENT",
+   "price": 15500,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-launchers"
+   ],
+   "conflictNote": null,
+   "description": "Grenade launcher, Expanded Ammu-Nation only.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "weapon-hauners-h-at",
+   "name": "Hauners H-AT (rocket launcher)",
+   "category": "EQUIPMENT",
+   "price": 16000,
+   "priceKind": "purchase",
+   "status": "COMMUNITY_REPORTED",
+   "sourceIds": [
+    "powerpyx-launchers",
+    "metaforge-weapons"
+   ],
+   "conflictNote": null,
+   "description": "Rocket launcher, the priciest weapon reported so far.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "service-vehicle-registration-first-moses",
+   "name": "First vehicle registration with Moses",
+   "category": "SERVICES",
+   "price": 0,
+   "priceKind": "registration",
+   "status": "VERIFIED_SECONDARY",
+   "sourceIds": [
+    "gamespot-moses"
+   ],
+   "conflictNote": "Seen via search summary of GameSpot coverage; later registrations cost per-vehicle fees.",
+   "description": "The first car registered through Moses in Chapter 2 costs nothing.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "service-body-armor",
+   "name": "Body armor (Ammu-Nation)",
+   "category": "EQUIPMENT",
+   "price": null,
+   "priceKind": "purchase",
+   "status": "PENDING_REVIEW",
+   "sourceIds": [
+    "powerpyx-snipers"
+   ],
+   "conflictNote": null,
+   "description": "Sold at Ammu-Nation; no documented price yet.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "other-clothing",
+   "name": "Clothing, haircuts, tattoos",
+   "category": "OTHER",
+   "price": null,
+   "priceKind": "purchase",
+   "status": "PENDING_REVIEW",
+   "sourceIds": [
+    "rockstar-gtaplus"
+   ],
+   "conflictNote": null,
+   "description": "Shops exist (GTA+ gives 10% off) but no per-item prices documented yet.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  },
+  {
+   "id": "upgrade-mod-shop",
+   "name": "Vehicle mod shop upgrades",
+   "category": "UPGRADES",
+   "price": null,
+   "priceKind": "purchase",
+   "status": "PENDING_REVIEW",
+   "sourceIds": [
+    "rockstar-gtaplus"
+   ],
+   "conflictNote": null,
+   "description": "Mod shops exist (GTA+ 10% off) but no part prices documented yet.",
+   "lastVerified": "2026-11-26",
+   "gameMode": "story"
+  }
+ ],
+ "economyFacts": [
+  {
+   "fact": "Money is US-style in-game dollars ($). Three forms exist: BuckMe bank balance (safe), carried pocket cash, and unfenced stash-bag loot that must be sold at a fence/drop-off before it becomes cash.",
+   "sources": [
+    "gtabase-money",
+    "gamesgg-money"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "BuckMe is the in-game banking app; the account is opened during the Chapter 1 story mission 'Buck Me'.",
+   "sources": [
+    "vgc-buckme",
+    "gamesgg-money"
+   ],
+   "status": "VERIFIED_SECONDARY"
+  },
+  {
+   "fact": "BuckMe account limits are capped and rise only through main-story progression; payments blocked by a full Checking account are processed after the story upgrade.",
+   "sources": [
+    "rockstar-support-buckme"
+   ],
+   "status": "VERIFIED_OFFICIAL"
+  },
+  {
+   "fact": "Pocket cash must be deposited at a physical ATM (not via the phone). Being wasted or busted loses carried cash (plus a small BuckMe fee per GTABase); banked money is untouched.",
+   "sources": [
+    "gtabase-money",
+    "gamesgg-money"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "Pocket cash is capped at $20,000 per character.",
+   "sources": [
+    "gtabase-money"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "Jason and Lucia appear to share one money pool / savings account. One guide (stack-archive) claims each has a separate account. No Rockstar statement found.",
+   "sources": [
+    "gamesgg-money",
+    "vgc-buckme",
+    "stack-archive-money"
+   ],
+   "status": "CONFLICTED"
+  },
+  {
+   "fact": "Some main-story missions are gated behind reaching cash/bank targets, so players must earn money to progress.",
+   "sources": [
+    "gamesradar-broke",
+    "gtabase-money"
+   ],
+   "status": "VERIFIED_SECONDARY"
+  },
+  {
+   "fact": "BuckMe Family Savings tiers reportedly grant perks; the $100,000 'BuckMe Gold' tier reportedly gives 20% off garages. Not confirmed by Rockstar.",
+   "sources": [
+    "gta6house-garages",
+    "theclick-familysavings"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "Stolen cars can be sold to fences or registered as personal vehicles at Pay 'n' Spray or Moses; registration costs roughly 2-3x what a fence pays. The first registration with Moses is free.",
+   "sources": [
+    "gamespot-moses",
+    "sportskeeda-cars",
+    "gtabase-carsteal"
+   ],
+   "status": "VERIFIED_SECONDARY"
+  },
+  {
+   "fact": "The WAINK phone app scan shows a car's security, tracker, fence value and registration cost. Trackers and damage reduce fence payouts.",
+   "sources": [
+    "gta6life-property",
+    "gtabase-carsteal"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "Houses and apartments cannot be bought in story mode; only garages are purchasable (via the Vice City Real Estate app, unlocked after Chapter 2 mission 'Daily Driver'). Safehouses are given by the story.",
+   "sources": [
+    "vgc-houses",
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "status": "VERIFIED_SECONDARY"
+  },
+  {
+   "fact": "Every purchasable garage holds exactly one vehicle; price reflects location only. Some story garages hold 2-3. Max ~20 personal vehicle slots.",
+   "sources": [
+    "powerpyx-garages",
+    "gta6house-garages"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "Purchased garages/properties do not generate passive income.",
+   "sources": [
+    "gta6house-garages"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  },
+  {
+   "fact": "GTA+ (real-money subscription) gives a free '90 Annis Venturas BLVD Elegy, a Crosstown District garage from Chapter 3, +10% on sales of owned vehicles, and 10% off at select shops (weapons, clothes, hair, tattoo, mod shops).",
+   "sources": [
+    "rockstar-gtaplus"
+   ],
+   "status": "VERIFIED_OFFICIAL"
+  },
+  {
+   "fact": "GTA VI launched as a single-player experience; no GTA Online for VI exists yet. A 2027 online mode is reported (Bloomberg-sourced) but not announced by Rockstar.",
+   "sources": [
+    "gamesradar-online",
+    "pcgamer-online",
+    "beebom-online2027"
+   ],
+   "status": "VERIFIED_SECONDARY"
+  },
+  {
+   "fact": "Fuel was observed at about $4.29/gal unleaded and $5.22/gal diesel in Key Lento (from streamer footage; may vary by region).",
+   "sources": [
+    "gamespot-gas"
+   ],
+   "status": "VERIFIED_SECONDARY"
+  },
+  {
+   "fact": "A post-story cheat grants $250,000; trackers should flag cheat-sourced money separately.",
+   "sources": [
+    "gtabase-money"
+   ],
+   "status": "COMMUNITY_REPORTED"
+  }
+ ]
+}
